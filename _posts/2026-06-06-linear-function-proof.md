@@ -1,6 +1,6 @@
 ---
-title : "Proof: Linear Function"
-description : "A proof about Linear Function"
+title : "Proof: Why 'a' is the Slope in the Linear Function y = ax + b"
+description : "A proof about why 'a' is the Slope in the Linear Function y = ax + b"
 date: 2026-06-06
 categories: [Mathematics, Algebra, Proof]
 tags: [mathematics, algebra]
