@@ -26,15 +26,21 @@ $$ P(x_1,y_1), Q(x_2,y_2) $$
 Let's substitute these points into the function
 
 $$ y_1 = ax_1 + b $$
+
 $$ y_2 = ax_2 + b $$
 
 and lets Subtract $y_1$ from $y_2$. It will be
 
 $$ y_2 - y_1 = (ax_2 +b) - (ax_1 + b) $$
+
 $$ y_2 - y_1 = ax_2 - ax_1 $$
+
 $$ y_2 - y_1 = a(x_2-x_1) $$
+
 If we Divide both sides by (x_2 - x_1)
+
 $$ \frac{y_2-y_1}{x_2-x_1} = a $$
+
 $$ a = \frac{y_2-y_1}{x_2-x_1} $$
 
 ## Conclusion
