@@ -22,7 +22,7 @@ $$ \frac{y_2-y_1}{x_2-x_1} $$
 Let's choose any two different arbitrary points on linear function $y = ax + b$ .
 
 And let P and Q be two arbitrary points on the function.
-$$ P(x_1,y_1), Q(x_2,y_2) $$
+$$P(x_1,y_1), Q(x_2,y_2)$$
 
 Let's substitute these points into the function
 
