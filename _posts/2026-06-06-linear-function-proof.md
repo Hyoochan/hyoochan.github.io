@@ -46,5 +46,4 @@ $$ a = \frac{y_2-y_1}{x_2-x_1} $$
 
 ## Conclusion
 Thank you for reading! I hope this post helped you.
-This post is written by 8th grade student living at south korea. Are you interested why this post is wriiten in english?
-because I want to go to USA for high school and university, so I am practicing english to go there!
+This post is written by 8th grade student living at south korea.
