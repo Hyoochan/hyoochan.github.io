@@ -18,10 +18,6 @@ I'm 8th-grade student that researching and learning about aerospace engineering,
 > - Computer, Network, Linux
 
 > ### My tech stacks
-> - OS : fedora linux 44 + windows 11 (dual booting)
+> - OS : POP OS COSMIC
 > - programming language : Python(Proficient), C(learning with CS50 by havard)
 
-> ### My goals
-> - High schools : The Webb Schools
-> - College : MIT, Caltech, Princeton University, KAIST, Stanford, Arizona State University(ASU), and Havard University
-> - Workplace : NASA JPL, Google Quantum AI, IBM Quantum, Google Project Zero, Theori, spaceX, or my startup
