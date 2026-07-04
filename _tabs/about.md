@@ -18,6 +18,5 @@ I'm 8th-grade student that researching and learning about aerospace engineering,
 > - Computer, Network, Linux
 
 > ### My tech stacks
-> - OS : POP OS COSMIC
-> - programming language : Python(Proficient), C(learning with CS50 by havard)
-
+> - OS : Pop!_OS, windows 11 (dual booting)
+> - Programming language : Python(Proficient), C(learning with CS50 by havard)
