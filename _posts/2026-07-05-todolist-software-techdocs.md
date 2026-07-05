@@ -79,9 +79,18 @@ file_path.write_text(format_todo, encoding="utf-8")
 - file_path = Path("./.todo.txt")
 file_path.write_text(format_todo, encoding="utf-8") : It creates file ./.todo.txt and write format_todo data on ./.todo.txt
 
+### 4-2. output.sh
+```bash
+#!/bin/bash
+echo "alias make_todo='python3 $HOME/to_do_list_project/get_to_do.py'" >> ~/.bashrc
+echo "alias ctd='cat $HOME/.todo.txt'" >> ~/.bashrc
 
-
-
+source ~/.bashrc
+```
+- echo "alias make_todo='python3 $HOME/to_do_list_project/get_to_do.py'" >> ~/.bashrc : This code creates custom alias named make_todo in the .bashrc. It executes the get_to_do.py.
+- echo "alias ctd='cat $HOME/.todo.txt'" >> ~/.bashrc : This code creates custom alias named ctd in the .bashrc. It execute **cat $HOME/.todo.txt**.
+- source ~/.bashrc : It applies changes at ~/.bashrc
+##### "cat" used to display the contents of a file in the terminal
 
 
 
