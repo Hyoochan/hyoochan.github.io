@@ -62,22 +62,23 @@ file_path.write_text(format_todo, encoding="utf-8")
 - 		for i in range(0,num):
 			to_do = input("Enter what you need to do : ")
 			to_do_list.append(to_do)
-: this code is reciving a tasks and appending to list(to_do_list)
+    : this code is reciving a tasks and appending to list(to_do_list)
 -  		for list in to_do_list:
 			print(list)
 		answer = input("Is it right? [y/n] : ")
-: this code is asking if the list is correct
+    : this code is asking if the list is correct
 -
 		if answer == "y":
 			return to_do_list
 		else:
 			continue
-:this code is checking the input. If user enter "y" get_to_do_list() returns to_do_list. If user enter "n" get_to_do_list() continue.
+    :this code is checking the input. If user enter "y" get_to_do_list() returns to_do_list. If user enter "n" get_to_do_list() continue.
 - final_to_do_list = get_to_do_list() : save return value of get_to_do_list() on final_to_do_list
 - print("Your To-Do_List : " , final_to_do_list) : print final_to_do_list
 - format_todo = "\n".join(final_to_do_list) : It save as a new value with lines separated on format_todo
 - file_path = Path("./.todo.txt")
 file_path.write_text(format_todo, encoding="utf-8") : It makes file ./.todo.txt and write format_todo value on ./.todo.txt
+
 
 
 
