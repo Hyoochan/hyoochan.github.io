@@ -56,8 +56,8 @@ format_todo = "\n".join(final_to_do_list)
 file_path = Path("./.todo.txt")
 file_path.write_text(format_todo, encoding="utf-8")
 ```
-- **num = int(input())** : This code receive input by user. It is receving the input for the number of tasks.
-- **While True:** : I used while loop to use **continue** command, because continue command needs to be inside of while.
+- num = int(input()) : This code receive input by user. It is receving the input for the number of tasks.
+- While True: : I used while loop to use **continue** command, because continue command needs to be inside of while.
 - to_do_list = [] : It is a list for tasks
 - 		for i in range(0,num):
 			to_do = input("Enter what you need to do : ")
@@ -77,8 +77,7 @@ file_path.write_text(format_todo, encoding="utf-8")
 - print("Your To-Do_List : " , final_to_do_list) : print final_to_do_list
 - format_todo = "\n".join(final_to_do_list) : It save as a new value with lines separated on format_todo
 - file_path = Path("./.todo.txt")
-file_path.write_text(format_todo, encoding="utf-8") : It makes file ./.todo.txt and write format_todo value on ./.todo.txt
-
+file_path.write_text(format_todo, encoding="utf-8") : It creates file ./.todo.txt and write format_todo data on ./.todo.txt
 
 
 
