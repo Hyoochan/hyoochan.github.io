@@ -2,7 +2,7 @@
 title : "Project : Linux_to_do_list software [TechDocs]"
 description : "Technical documentaion about linux_to_do_list software"
 date: 2026-07-05
-categories: [Project, Software, Linux_to_do_list, TechDocs]
+categories: [Project, Software, Linux-to-do-list, TechDocs]
 tags: [project, software, techdocs]
 ---
 
