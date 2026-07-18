@@ -35,6 +35,5 @@ So I chaged to save the bash script to ~/bashrc (Image5).
 It was saved. But changes didn't applied to the terminal.
 So I added source ~/.bashrc to apply to the terminal(Image6). 
 
-
 ![Image6](/assets/img/Screenshot_2026-07-05_00-20-06.png)
 
