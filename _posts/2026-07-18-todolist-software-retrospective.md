@@ -37,3 +37,11 @@ So I added source ~/.bashrc to apply to the terminal(Image6).
 
 ![Image6](/assets/img/Screenshot_2026-07-05_00-20-06.png)
 
+
+## 3. Next Steps for Linux_to_do_list Project
+- **Task Deletion**: A feature to select and delete a task from to-do-list
+- **Dynamic Task Entry**: A feature to enter tasks without limits until the user quits
+
+## 4. Reflections on My Development Habits
+- ** Variable Naming** : I need to name variable more Meaningful.
+- **Architecture Before coding (Designing First)** : I must design first before coding 
