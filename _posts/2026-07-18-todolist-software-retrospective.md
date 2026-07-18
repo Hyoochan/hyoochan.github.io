@@ -1,9 +1,9 @@
 ---
-title : Project : Linux_to_do_list software (Retrospective)
-description : "Retrospective about Linux_to_do_list software"
-date : 2026-07-18
-categories : [Project, Software, Linux-to-do-list, Retrospective]
-tags : [project, software, retrospective]
+title: "Project : Linux_to_do_list software (Retrospective)"
+description: "Retrospective about Linux_to_do_list software"
+date: "2026-07-18"
+categories: [Project, Software, Linux-to-do-list, Retrospective]
+tags: [project, software, retrospective]
 ---
 
 # Project : Linux_to_do_list [Retrospective]
