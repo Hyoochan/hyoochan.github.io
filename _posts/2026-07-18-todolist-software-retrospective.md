@@ -29,10 +29,12 @@ But, It's uncomfortable to execute python code every time so I made bash script.
 
 Image4 was first bash script. But changes was limited to the active terminal window.
 So I chaged to save the bash script to ~/bashrc (Image5).
+
 [Image5](/assets/img/Screenshot_2026-07-05_00-10-35.png)
 
 It was saved. But changes didn't applied to the terminal.
 So I added source ~/.bashrc to apply to the terminal(Image6). 
+
 
 [Image6](/assets/img/Screenshot_2026-07-05_00-20-06.png)
 
