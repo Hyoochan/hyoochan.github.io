@@ -48,7 +48,8 @@ There was no target, I just took a shot of the large field of sky.
 
 
 
-
+### Feedback
+I captured these images in RAW format, and they're unprocessed.I think I need to process them to get better result. 
 
 
 
