@@ -1,7 +1,7 @@
 ---
 title : "Stargazing Log #1"
 description : "Stargazing Log #1"
-date : 2026-08-25
+date : 2026-08-27
 categories : [Stargazing, Log]
 tags : [stargazing, log]
 ---
