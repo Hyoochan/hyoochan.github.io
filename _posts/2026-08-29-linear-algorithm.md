@@ -65,3 +65,7 @@ int linear_search(int list[], int size_of_array, int t) //t is target number
 ```
 
 
+### I learned
+- 1. **How to get input: In CS50 I used get_(data_type) to get input. But in standard C enviroment, I need to use scanf**
+
+
