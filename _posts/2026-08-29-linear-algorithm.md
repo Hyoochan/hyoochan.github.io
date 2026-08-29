@@ -7,9 +7,8 @@ tags : [implementation, algorithm, c, linear_search]
 ---
 
 ### Introduction
-Hello! my name is Yoochan, I learned about linear algorithm on CS50 by havard 2019. And I just want to implement 
+Hello! my name is Yoochan, I learned about linear algorithm on CS50 by harvard 2019. And I just want to implement 
 linear search algorithm. So, in this post I will implement linear search algorithm with C.
-###### for education purpose
 ### Source Code
 
 ```c
@@ -35,7 +34,7 @@ int main(void)
                 printf("Enter the number");
                 scanf("%d", &list[j]);
         }
-        printf("founded index number : %d ", linear_search(list,size_of_array,t));
+        printf("found index number : %d ", linear_search(list,size_of_array,t));
 
 
 }
@@ -58,7 +57,6 @@ int linear_search(int list[], int size_of_array, int t) //t is target number
                         return i;
                 }
 
-                continue;
         }
         return -1;
 }
@@ -66,6 +64,6 @@ int linear_search(int list[], int size_of_array, int t) //t is target number
 
 
 ### I learned
-- 1. **How to get input: In CS50 I used get_(data_type) to get input. But in standard C enviroment, I need to use scanf**
+- 1. **How to get input: In CS50 I used get_(data_type) to get input. But in standard C environment, I need to use scanf**
 
 
