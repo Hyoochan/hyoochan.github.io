@@ -32,5 +32,5 @@ Lastly, I connected enameled wire at the power supply unit.
 
 
 <div class="shorts-container">
-	<iframe src="https://www.youtube.com/shorts/y5wvlvHVt8I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	<iframe src="https://www.youtube.com/embed/y5wvlvHVt8I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
