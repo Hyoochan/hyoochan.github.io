@@ -31,6 +31,6 @@ Second, I striped the coating off both ends of the enameled wire.
 Lastly, I connected enameled wire at the power supply unit.
 
 
-<div class="video-container">
+<div class="shorts-container">
 	<iframe src="https://www.youtube.com/shorts/y5wvlvHVt8I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-	</iframe>
+</iframe>
