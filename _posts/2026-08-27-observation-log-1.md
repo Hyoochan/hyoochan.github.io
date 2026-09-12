@@ -30,21 +30,21 @@ There was no target, I just took a shot of the large field of sky.
 
 ### Pictures
 
-![image1](/assets/star/IMG_6794.jpg)
+![image1](/assets/img2/IMG_6794.jpg)
 
 
 ---
 
-![image2](/assets/star/IMG_6795.jpg)
+![image2](/assets/img2/IMG_6795.jpg)
 
 ---
 
-![image3](/assets/star/IMG_6796.jpg)
+![image3](/assets/img2/IMG_6796.jpg)
 
 
 ---
 
-![image4](/assets/star/IMG_6798.jpg)
+![image4](/assets/img2/IMG_6798.jpg)
 
 
 
