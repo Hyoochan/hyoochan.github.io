@@ -34,3 +34,7 @@ Lastly, I connected enameled wire at the power supply unit.
 <div class="shorts-container">
 	<iframe src="https://www.youtube.com/embed/y5wvlvHVt8I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
+
+
+## 4. Feedback
+1. I need to learn how to handle a PSU.
