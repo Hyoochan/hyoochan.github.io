@@ -30,10 +30,10 @@ This is how I made it :
 
 First, I made an insulator pole by attaching a wire protector.
 
-![wire protector](20261016_205757.jpg)
+![wire protector](/assets/img/20261016_205757.jpg)
 
 
-![attached wire protector](20261016_210552.jpg)
+![attached wire protector](/assets/img/20261016_210552.jpg)
 
 Second, I cut the tape measure to the correct figure.
 
@@ -43,17 +43,17 @@ Second, I cut the tape measure to the correct figure.
 
 The spacing between all components is 30cm.
 
-![measure tape and pole](20261016_211710.jpg)
+![measure tape and pole](/assets/img/20261016_211710.jpg)
 
 
-![measure tape and pole](20261016_215221.jpg)
+![measure tape and pole](/assets/img/20261016_215221.jpg)
 
 
 As a beginner, these values come from Internet. So, I need to research ""How these values were calculated?""
 
 Third, I used a multimeter to check the two parts of the Driven Element were not shorted together.
 
-![multimeter](20261016_215436.jpg)
+![multimeter](/assets/img/20261016_215436.jpg)
 
 And the shown value was *OL* which means **Over Limit**. So, the Driven Element were not shorted together.
 
