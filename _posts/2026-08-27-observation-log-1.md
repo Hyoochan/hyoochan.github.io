@@ -15,7 +15,7 @@ Hello! my name is Yoochan hwang, in this post I'm going to share my stargazing l
 * **Location:** Mountain peak in Gangwon-do, South korea
 * **Date/Time:**  August 8, 2026  / (21:00 ~ 1:00)
 
-### Weather Conditions
+## Weather Conditions
 * **Sky:** No clouds, no moons
 * **Weather:** Strong winds
 * **Light pollution**  Medium (one streetlights) 
