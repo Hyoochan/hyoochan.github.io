@@ -57,3 +57,18 @@ Third, I used a multimeter to check the two parts of the Driven Element were not
 
 And the shown value was *OL* which means **Over Limit**. So, the Driven Element were not shorted together.
 
+## 2026-10-21
+Now, antenna is done!!
+
+In October 21, honestly, I broke my SMA cable. (When I was stripping wire)
+So, I bought a new **SMA cable**.
+And, connect to each Driven Element.
+
+![Driven Element which SMA cable is connected](/assets/img/20261021_172512.jpg)
+
+But I found that the angle of each component don't match!
+So, I decided to change insulating tape to **cable tie**.
+
+![Yagi antenna with cable tie](/assets/img/20261021_185330.jpg)
+
+Later I need to discover some servo motors and step motors, and a way to mount an antenna.
