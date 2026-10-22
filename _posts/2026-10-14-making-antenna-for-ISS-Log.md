@@ -12,8 +12,8 @@ tags : [project, hardware, rf, antenna, log]
 I was just watching saveitforparts’s video about Hearing The ISS. And I wanted to do that things. So I decided to make antenna for ISS.
 
 Core IDEAs :
-- 1. Receiving ISS’s signal (Astronaut’s voice)
-- 2. Auto-Tracking
+- 0. Receiving ISS’s signal (Astronaut’s voice)
+- 1. Auto-Tracking
 
 
 
