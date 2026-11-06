@@ -18,4 +18,4 @@ I'm 8th-grade student that researching and learning about aerospace engineering,
 
 > ### My tech stacks
 > - OS : Debian Linux
-> - Programming language : Python(Proficient), C(learning with CS50 by harvard)
+> - Programming language : Python, C(learning with CS50 by harvard)
